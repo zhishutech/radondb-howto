@@ -2,7 +2,7 @@
 
 xenon是MySQL的一个Agent结构如下：
 
-<img src="image/xenon.png" width="500" height="500" align="center">
+<img src="/image/xenon.png" width="500" height="500" align="center">
 
 ** 主要功能如下 **
 
