@@ -9,8 +9,10 @@
 \$nohup ./bin/xenon -c /etc/xenon/xenon.json >./xenon.log 2>&1 &
 
 推荐使用： screen 或是supervisor
--> screen  -dm ./bin/xenon -c /etc/xenon/xenon.json >./xenon.log 2>&1 &
--> supervisor的配置使用，略
+
+\-> screen  -dm ./bin/xenon -c /etc/xenon/xenon.json >./xenon.log 2>&1 &
+
+\-> supervisor的配置使用，略
 
 #### 关闭: xenon:
 pkill xenon
