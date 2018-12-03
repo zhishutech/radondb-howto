@@ -14,7 +14,7 @@
     * [xenon配置文件](xenon/3-xenon-conf.md)
     * [xenon初始化](xenon/4-xenon-init.md)
     * [xenon高可用实现](xenon/5-xenon-ha.md)
-    * [xenon故障切换](xenon/6-xenon-failover.md)
+    * [xenon故障切换](xenon/6-xenon-rebuildme.md)
 * [radon]
     * [radon安装](radon/0-radon-install.md)
     * [radon支持语句](radon/1-radon-sql.md)
