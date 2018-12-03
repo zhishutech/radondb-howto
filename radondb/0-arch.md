@@ -2,7 +2,7 @@
 [toc]
 ## RadonDB整体架构
 
-<img src="image/radondb.jpg" width="500" height="300" align="center">
+<img src="/image/radondb.jpg" width="500" height="300" align="center">
 
 ### Radon作用
 * SQL解析及路由，混合OLTP和OLAP
