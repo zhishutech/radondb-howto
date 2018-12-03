@@ -39,9 +39,11 @@ pkill xenon
 kill掉leader节点上的MySQL，观查是不是进行切换。
 可以通过:
 
-\#\`pwd\`
+```
+#`pwd\`
 /data/xenon
-\#./bin/xenoncli cluster status 确认谁是leader
+#./bin/xenoncli cluster status 确认谁是leader
+```
 
 然后用ip addr show 确认VIP是不是在他身上。
 
