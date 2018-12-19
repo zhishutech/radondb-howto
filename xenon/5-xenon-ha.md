@@ -92,4 +92,4 @@ xenon 是基于Raft的高可用实现。大家听到Raft可能的误区是Xenon�
 
 ###  Xenon故障切换流程
 
-当原理的主节点故障或是crash, xenon会触发一次新的选举，原始的leader释放vip, 成为follower其它节点提义成为新的Leader，当成为leader后，还是走的上面的流程。
+当原来的主节点故障或是crash, xenon会触发一次新的选举，原始的leader释放vip, 成为follower其它节点提义成为新的Leader，当成为leader后，还是走的上面的流程。
