@@ -21,7 +21,7 @@ xenon节点前重建需要使用xtrabackup进行备份。 节点之间需要ssh�
 
 ![-w706](/image/15433908436018.jpg)
 
-执作: authorized_keys
+执行: authorized_keys
 
 ![-w653](/image/15433909245137.jpg)
 
