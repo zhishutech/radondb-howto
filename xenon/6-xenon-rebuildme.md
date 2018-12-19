@@ -209,7 +209,7 @@ S11-->start.mysql.end...
 一直在输出这个。
 
 这个地方大多的原因是备份过来的权限问题。 可以手工改一下datadir权限或是
-在11步聚拉起MySQL前面添加代码如下：
+在11步骤拉起MySQL前面添加代码如下：
 
 ```
 	// patch by wubx.  change datadir owner
