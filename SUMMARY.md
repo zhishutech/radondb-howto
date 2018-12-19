@@ -6,7 +6,7 @@
     * [radon结构](radondb/1-radon.md)
     * [xenon结构](radondb/2-xenon.md)
 * [安装环境准备]
-    * [golang安装](glang.md)
+    * [golang安装](golang.md)
 * [xenon]
     * [linux准备](xenon/0-linux.md)
     * [mysql安装](xenon/1-mysql.md)
