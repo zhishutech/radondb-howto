@@ -24,7 +24,7 @@ vip绑定在 master上面
    
    \# make 
    
-![-w786](image/15433897852102.jpg)
+![-w786](../image/15433897852102.jpg)
 
 确认bin目录下生成了: xenon，xenoncli 便大功告成。
 
